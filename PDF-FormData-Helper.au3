@@ -9,7 +9,7 @@ PDF-FormData-Helper
 2022 by Thorsten Willert
 www.thorsten-willert.de
 
-To use with Form_Data.js to export formdata feom Adobe Acrobat Reader
+To use with Form_Data.js to export formdata from Adobe Acrobat Reader
 
 #ce
 Global Const $__DEBUG__ = False ;#__DEBUG__
