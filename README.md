@@ -19,10 +19,6 @@ Nach dem (Neu)Start von Acrobat Reader sollte folgendes Menü sichtbar sein:
 
 ![Menue](https://www.thorsten-willert.de/images/Dokumentenoptimierung/PDF-FormData/Thorsten_H_Willert_-_PDF-FormData_Menue.png)
 
-- Im Acrobat Reader muss folgendes aktiviert sein:
-
-![Einstellungen](https://www.thorsten-willert.de/images/Dokumentenoptimierung/PDF-FormData/Thorsten_H_Willert_-_PDF-FormDatea_AR_Einstellungen.png)
-
 - Als Erleichterung sollten Sie das Programm **PDF-FormData-Helper.exe** starten. Dieses bietet einen Datei-Dialog zum Speichern der Daten an. Eine Installation ist hierfür nicht notwendig.
 
 ____
